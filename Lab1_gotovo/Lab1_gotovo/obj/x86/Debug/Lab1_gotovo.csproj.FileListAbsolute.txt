@@ -1,0 +1,5 @@
+C:\Users\Mikhail\Documents\vs projects\Lab1_gotovo\Lab1_gotovo\bin\Debug\Lab1_gotovo.exe
+C:\Users\Mikhail\Documents\vs projects\Lab1_gotovo\Lab1_gotovo\bin\Debug\Lab1_gotovo.pdb
+C:\Users\Mikhail\Documents\vs projects\Lab1_gotovo\Lab1_gotovo\obj\x86\Debug\Lab1_gotovo.exe
+C:\Users\Mikhail\Documents\vs projects\Lab1_gotovo\Lab1_gotovo\obj\x86\Debug\Lab1_gotovo.pdb
+C:\Users\Mikhail\Documents\vs projects\Lab1_gotovo\Lab1_gotovo\obj\x86\Debug\Lab1_gotovo.csprojResolveAssemblyReference.cache
