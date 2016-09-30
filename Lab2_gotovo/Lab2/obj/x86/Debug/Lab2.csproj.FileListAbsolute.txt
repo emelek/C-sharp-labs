@@ -1,0 +1,8 @@
+C:\Users\Mikhail\AppData\Local\Temporary Projects\Lab2\bin\Debug\Lab2.exe
+C:\Users\Mikhail\AppData\Local\Temporary Projects\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Mikhail\AppData\Local\Temporary Projects\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Mikhail\AppData\Local\Temporary Projects\Lab2\obj\x86\Debug\Lab2.pdb
+C:\Users\Mikhail\Documents\vs projects\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Mikhail\Documents\vs projects\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+C:\Users\Mikhail\Documents\vs projects\Lab2_gotovo\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Mikhail\Documents\vs projects\Lab2_gotovo\Lab2\obj\x86\Debug\Lab2.pdb
